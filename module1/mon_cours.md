@@ -12,4 +12,4 @@ Voici une sous-section de cours **Esc@pad**
 [Université de Valenciennes](http://www.univ-valenciennes.fr/)
 
 - liste
-  * sous-liste
+    - sous-liste
